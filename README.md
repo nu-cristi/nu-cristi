@@ -11,11 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [-place holder-](-place holder-)
 
-- 📫 How to reach me **cristian.dobree98@gmail.com** **www.linkedin.com/in/cristian-dobre98**
+- 📫 How to reach me **cristian.dobree98@gmail.com**
 
 - ⚡ Fun fact **I climb rocks**
 
 <h3 align="left">Connect with me:</h3>
+**www.linkedin.com/in/cristian-dobre98**
 <p align="left">
 </p>
 
