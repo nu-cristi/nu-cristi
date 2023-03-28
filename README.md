@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [-place holder-](-place holder-)
 
-- 📫 How to reach me **cristian.dobree98@gmail.com**
+- 📫 How to reach me **cristian.dobree98@gmail.com** **www.linkedin.com/in/cristian-dobre98**
 
 - ⚡ Fun fact **I climb rocks**
 
