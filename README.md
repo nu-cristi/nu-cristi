@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I climb rocks**
 
 <h3 align="left">Connect with me:</h3>
-**www.linkedin.com/in/cristian-dobre98**
+  www.linkedin.com/in/cristian-dobre98
 <p align="left">
 </p>
 
