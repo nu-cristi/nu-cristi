@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Bolovun](https://github.com/nu-cristi/bolovun-shop)
 
-- 🌱 I’m currently learning **ASP .NET, React, Rust and actix, Typescript**
+- 🌱 I’m currently learning **ASP .NET, React, Typescript**
 
-- 👨‍💻 All of my projects are available at [-place holder-](-place holder-)
+- 👨‍💻 All of my projects are available at *in progress*
 
 - 📫 How to reach me **cristian.dobree98@gmail.com**
 
