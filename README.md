@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bolovun](https://github.com/nu-cristi/bolovun-shop)
 
-- 🌱 I’m currently learning **ASP .NET, React, Typescript**
+- 🌱 I’m currently learning **ASP .NET, React, Typescript, NestJS, Svelte & SvelteKit**
 
 - 👨‍💻 All of my projects are available at *in progress*
 
