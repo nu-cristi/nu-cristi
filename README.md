@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nu-cristi" alt="nu-cristi" /></a> </p>
 
-- 🔭 I’m currently working on [Bolovun](https://github.com/nu-cristi/bolovun-shop)
-
-- 🌱 I’m currently learning **ASP .NET, React, Typescript, NestJS, Svelte & SvelteKit**
-
-- 👨‍💻 All of my projects are available at *in progress*
-
-- 📫 How to reach me **cristian.dobree98@gmail.com**
-
-- ⚡ Fun fact **I climb rocks**
-
 <h3 align="left">Connect with me:</h3>
   www.linkedin.com/in/cristian-dobre98
 <p align="left">
