@@ -7,7 +7,8 @@
 
 ```javascript
 const bio = {
-    location: "Bucharest, Romania", 
-    tech: ["Javascript/Typescript", "ReactJS", "Next.js", "Node.js (NestJS, Express)", "Python (Flask)", "C# (.NET)"],
+    location: "Bucharest, Romania",
+    email: "cristian.dobre1@protonmail.com",
+    tech: ["Javascript/Typescript", "ReactJS", "Next.js", "Node.js (NestJS, Express)", "Python (Flask)", "C# (.NET)"]
 };
 ```
